@@ -6,5 +6,7 @@ Decision trees are classification or regression models in the form of a tree str
 
 Let’s define a simple problem and demostrate how a decision tree model can be used to solve a classification problem.
 
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gist/hakngrow/e2f4f7144c9da7e9a5031bede4d0c151/master)
+
 
 
